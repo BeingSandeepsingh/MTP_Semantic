@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sun Apr 26 01:58:06 2026
+# Process ID         : 33660
+# Current directory  : D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.runs/synth_1
+# Command line       : vivado.exe -log CNN_TOP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CNN_TOP.tcl
+# Log file           : D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.runs/synth_1/CNN_TOP.vds
+# Journal file       : D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.runs/synth_1\vivado.jou
+# Running On         : sandeep
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7840HS w/ Radeon 780M Graphics     
+# CPU Frequency      : 3793 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16415 MB
+# Swap memory        : 16106 MB
+# Total Virtual      : 32521 MB
+# Available Virtual  : 6592 MB
+#-----------------------------------------------------------
+source CNN_TOP.tcl -notrace

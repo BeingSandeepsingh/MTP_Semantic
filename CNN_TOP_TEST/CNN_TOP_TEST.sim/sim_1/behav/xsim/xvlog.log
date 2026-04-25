@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.srcs/sources_1/new/CNN_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CNN_TOP
+INFO: [VRFC 10-311] analyzing module BaseAddrGen
+INFO: [VRFC 10-311] analyzing module PE
+INFO: [VRFC 10-311] analyzing module Fetch
+INFO: [VRFC 10-311] analyzing module MAC9_PIPE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.srcs/sim_1/new/tb_CNN_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cnn_accel
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/CNN_TOP_TEST/CNN_TOP_TEST.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
